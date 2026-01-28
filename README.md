@@ -20,6 +20,5 @@ tic-tac-toe/
 1. Clone the repository
 2. Open `index.html` in any browser
 
-## Live Demo
-(Coming soon)
-G
+## Live Demo 🎮
+👉 https://mitraj18.github.io/tic-tac-toe/
